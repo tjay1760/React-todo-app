@@ -110,7 +110,7 @@ To use this project on the `index.html` file with your prefered browser
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Yashodhi Chathurangi**
+👤 **John Thiongo**
 
 - GitHub: [tjay1760](https://github.com/tjay1760)
 
