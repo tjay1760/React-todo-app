@@ -53,12 +53,12 @@ Creating a todo app using react as front end. can add todo items, edit items and
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo(still in development) <a name="live-demo"></a>
+## 🚀 Live Demo(Coming Soon) <a name="live-demo"></a>
 
 
 - [live project](#) - upcoming 
 
-## 🚀 Live Video(still in development) <a name="live-video"></a>
+## 🚀 Live Video(Coming Soon) <a name="live-video"></a>
 
 - [live video ](#) - upcoming
 
