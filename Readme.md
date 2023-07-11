@@ -98,7 +98,7 @@ Install this project with:
 
 
 ```sh
-  cd Caluculator
+  cd todo-app
   npm install
 ```
 
@@ -125,8 +125,8 @@ To use this project on the `index.html` file with your prefered browser
 
 
 - [ ] **Adding class for further javascript**
-- [ ] **Adding CSS styleing**
-- [ ] **Adding humburger**
+- [ ] **Adding CSS styling**
+- [ ] **Adding hamburger menu**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
