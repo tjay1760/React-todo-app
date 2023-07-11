@@ -53,12 +53,12 @@ Creating a todo app using react as front end. can add todo items, edit items and
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo(still in development) <a name="live-demo"></a>
+## 🚀 Live Demo(Coming Soon) <a name="live-demo"></a>
 
 
 - [live project](#) - upcoming 
 
-## 🚀 Live Video(still in development) <a name="live-video"></a>
+## 🚀 Live Video(Coming Soon) <a name="live-video"></a>
 
 - [live video ](#) - upcoming
 
@@ -98,7 +98,7 @@ Install this project with:
 
 
 ```sh
-  cd Caluculator
+  cd todo-app
   npm install
 ```
 
@@ -125,8 +125,8 @@ To use this project on the `index.html` file with your prefered browser
 
 
 - [ ] **Adding class for further javascript**
-- [ ] **Adding CSS styleing**
-- [ ] **Adding humburger**
+- [ ] **Adding CSS styling**
+- [ ] **Adding hamburger menu**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
