@@ -1,4 +1,4 @@
-# ToDo App
+# To-Do App
 
 # 📗 Table of Contents
 
